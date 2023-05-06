@@ -1,7 +1,7 @@
 # Prazer! 👋
 
-- 🔭 Estudante de Análise e Desenvolvimento na Fatec;
-- 🌱 Estudando Python, Flask, HTML e CSS;
+- 🔭 Estudante de Análise e Desenvolvimento na Fatec Rio Preto;
+- 🌱 Conhecimento  Python, HTML e CSS;
 - 👯 Buscando me tornar desenvolvedor Backend;
 - 🤔 Aberto a sugestões e dicas!
 
