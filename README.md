@@ -1,8 +1,7 @@
 # Prazer! 👋
 
-- 🔭 Estudante de Análise e Desenvolvimento na Fatec Rio Preto;
-- 🌱 Conhecimento  Python, HTML e CSS;
-- 👯 Buscando me tornar desenvolvedor Backend;
+- 🔭 Estudante de Análise e Desenvolvimento de Sistemas na Fatec Rio Preto;
+- 🌱 Conhecimento em Python, HTML, CSS, JavaScript e React.
 - 🤔 Aberto a sugestões e dicas!
 
 <div align="center">
