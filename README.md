@@ -1,7 +1,7 @@
 # Prazer! 👋
 
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas na Fatec Rio Preto;
-- 🌱 Conhecimento em Python, HTML, CSS, JavaScript e React.
+- 🌱 Conhecimento em Python, HTML, CSS, JavaScript.
 - 🤔 Aberto a sugestões e dicas!
 
 <div align="center">
