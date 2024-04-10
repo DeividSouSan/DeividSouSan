@@ -5,7 +5,7 @@ Sou estudante do curso de Análise e Desenvolvimento de Sistemas na Fatec Rio Pr
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deividsousan&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-## Desenvolvimento web Frontend
+## Desenvolvimento Web Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 ## Desenvolvimento Web Backend e APIs
