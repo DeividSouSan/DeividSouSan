@@ -24,6 +24,8 @@ Aberto a sugestões e dicas!
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=deividsousan&repo=taskmaster)](https://github.com/deividsousan/taskmaster)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=deividsousan&repo=GenderClassificationWebApp)](https://github.com/DeividSouSan/GenderClassificationWebApp)
+
 
 
 
