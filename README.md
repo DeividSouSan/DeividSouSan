@@ -17,6 +17,7 @@
     <h2>Server-Side Web Apps e APIs</h2>
     <p>Tecnologias para criar aplicações web server-side e APIs.</p>
     <img src="https://skillicons.dev/icons?i=python,cs,htmx,flask,fastapi,mysql"> 
+    <img src="https://customtkinter.tomschimansky.com/img/icon.ico" style="width: 48px; height: 48px;"> 
   </div>
   
   <div>
