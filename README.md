@@ -15,14 +15,20 @@
   
   <div>
     <h2>Server-Side Web Apps e APIs</h2>
-    <p>Tecnologias para criar aplicações web server-side e APIs.</p>
+    <p>Tecnologias para criar aplicações <strong>web server-side</strong> e <strong>APIs</strong>.</p>
     <img src="https://skillicons.dev/icons?i=python,cs,htmx,flask,fastapi,mysql"> 
-    <img src="https://customtkinter.tomschimansky.com/img/icon.ico" style="width: 48px; height: 48px;"> 
+  </div>
+
+  <div>
+    <h2>GUIs e Automações</h2>
+    <p>Tecnologias para desenvolver <strong>interfaces gráficas</strong> e <strong>automações</strong>.</p>
+    <img src="https://customtkinter.tomschimansky.com/img/icon.ico" style="width: 48px; height: 48px;" alt="Tkinter"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" style="width: 48px; height: 48px;"> 
   </div>
   
   <div>
     <h2>Web Apps e Landing Pages</h2>
-    <p>Tecnologias para o desenvolvimento frontend.</p>
+    <p>Tecnologias para <strong>desenvolvimento frontend</strong>.</p>
     <img src="https://skillicons.dev/icons?i=html,css,js">
   </div>
 
