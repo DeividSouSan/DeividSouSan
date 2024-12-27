@@ -26,7 +26,7 @@ Outros interesses
 <table>
   <tr>
     <td align="center">
-      Ao longo dos meus projetos pessoais, venho aprendendo e aplicando diversas tecnologias. À direita, você encontra algumas das principais ferramentas que utilizei e utilizo para desenvolver minhas aplicações.
+      Ao longo dos meus projetos pessoais, venho aprendendo e aplicando diversas tecnologias. À direita, você encontra algumas das principais tecnologias, linguagens e ferramentas que utilizei e utilizo para desenvolver minhas aplicações.
     </td>
     <td align="center" width="400">
       <img src="https://skillicons.dev/icons?i=python,cs,htmx,flask,fastapi"> <br>
